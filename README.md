@@ -4,20 +4,6 @@
 This repository contains the implementation for **SemEval-2025 Task 1: AdMIRe (Advancing Multimodal Idiomaticity Representation)**. The task focuses on using multimodal data (text and images) to improve idiomaticity understanding and representation, with two subtasks:
 
 1. **Subtask A:** Identify which image best represents an idiomatic expression in a given sentence.
-2. **Subtask B:** Select the best completion for a 3-image sequence representing the meaning of a given expression.
-
----
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Methodology](#methodology)
-3. [Dataset](#dataset)
-4. [Model Architecture](#model-architecture)
-5. [Training and Evaluation](#training-and-evaluation)
-6. [Results](#results)
-7. [How to Run the Code](#how-to-run-the-code)
-8. [References](#references)
-
 ---
 
 ## Introduction
