@@ -1,5 +1,12 @@
 # Multimodal-Idiomaticity-Representation-Semval2025
 
+# Team Memeber's
+Ganesh (22BDS067)
+Ajay (22BDS049)
+Arpit (22BDS006)
+Arya (22BDS007)
+Viraj (22BDS065)
+
 ## Overview
 This repository contains the implementation for **SemEval-2025 Task 1: AdMIRe (Advancing Multimodal Idiomaticity Representation)**. The task focuses on using multimodal data (text and images) to improve idiomaticity understanding and representation, with two subtasks:
 
